@@ -13,17 +13,17 @@ Depois de muitas coisas hoje vejo que eu tenho que fazer isso.
 #### Vontades minhas
 
 <table>
-	<tr><td><strong> Um Guia do tipo 'Mapa de Progressão Escoteiro' (grão por grão)</strong></td></tr>
-	<tr><td><strong> Narrativa/Storytelling educativa </strong></td></tr>
-	<tr><td><strong> Áreas do Desenvolvimento Humano </strong>
+	<tr><td> Um Guia do tipo 'Mapa de Progressão Escoteiro' (grão por grão)</td></tr>
+	<tr><td> Narrativa/Storytelling educativa </td></tr>
+	<tr><td> Áreas do Desenvolvimento Humano
 	  <br/> - Físico
 		<br/> - Intelectual
 		<br/> - Caráter
 		<br/> - Afetivo
 		<br/> - Social</td></tr>
-	<tr><td><strong> Ritualística simbólica de passagem de ramo/especialização </strong></td></tr>
-    <tr><td><strong> Atividades de base, de jornada, de âmbito de missão (atividades com prazo) </strong></td></tr>
-	<tr><td><strong> Histórias, lendas e Contos Antigos </strong>
+	<tr><td> Ritualística simbólica de passagem de ramo/especialização </td></tr>
+    <tr><td> Atividades de base, de jornada, de âmbito de missão (atividades com prazo) </td></tr>
+	<tr><td> Histórias, lendas e Contos Antigos 
 		<br/><a href="http://historiasescoteiras.blogspot.com/2015/03/velhos-escoteiros-nao-contam-historias.html"> - Exemplo 1: Algumas histórias escoteiras </a>
 		<br/><a href="https://www.lisbrasil.com/arquivos/livros/OFerraz/HistoriasEscoteiras.pdf"> - Exemplo 2: Algumas outras histórias escoteiras </a>
 		<br/><a href="https://amenteemaravilhosa.com.br/fabulas-chinesas-para-refletir/"> - Exemplo 3: Fábulas chinesas </a>
@@ -48,6 +48,9 @@ Traduzindo,
 .
 .
 ## Definir os requisitos
+
+- Água, café, lanchinhos...
+
 ## Avaliar a viabilidade do projeto
 ## Documentar todos os procedimentos
 ## Escolher a metodologia de desenvolvimento
