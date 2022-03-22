@@ -1,21 +1,11 @@
-### 𝗪𝗘 𝗔𝗥𝗘 𝗔 𝗖𝗟𝗔𝗡. 𝗪𝗘 𝗥𝗘𝗦𝗘𝗔𝗥𝗖𝗛, 𝗗𝗘𝗩𝗘𝗟𝗢𝗣, 𝗧𝗘𝗦𝗧, 𝗙𝗜𝗫, 𝗨𝗣𝗚𝗥𝗔𝗗𝗘 𝗔𝗡𝗗 𝗞𝗘𝗘𝗣.  💖
-#### 𝐖𝐎𝐑𝐋𝐃 𝐔𝐍𝐈𝐓𝐄𝐃 - TO 𝐉𝐀𝐙𝐙, TO 𝐄𝐍𝐉𝐎𝐘, TO 𝐈𝐍𝐂𝐄𝐍𝐓𝐈𝐕𝐄
+![korra1_github](https://user-images.githubusercontent.com/42531679/159571551-b4f98767-3acd-4142-969f-ccab8f1c266d.jpg)
 
-## Good Links for Good Projects
+The guy who appears when you *call the guy* who *knows a guy* that said *heard about the guy in a old path ago*. Well yeah... I am *The Guy.*
 
-### Learn the Stacks
-- https://github.com/stacylondon/front-end-learning
+![korra2_github](https://user-images.githubusercontent.com/42531679/159571555-e7a3010b-3210-4674-a81d-a2bdb15154c2.jpg)
 
-### React
-- https://github.com/Monyancha/e-learning
-- https://github.com/PriontoAbdullah/e-learning-online-courses
-- https://github.com/niemet0502/Tefnout
-- https://github.com/brij1999/Elendil
-- https://github.com/marisa2306/project-3
-- https://github.com/rbhatia46/React-Portfolio
+O cara que aparece quando vcs chamam o cara que conhece um cara que diz ter escutado sobre o cara. Pois é, eu sou O Cara.
 
-### Reac Native
-- https://github.com/EduardoRodriguesF/e-learning
-
-### Django + React
-- https://github.com/vintasoftware/django-react-boilerplate
+[Ideias](https://github.com/wu-jei/wu-jei/blob/main/ideias.md)
+[Links](https://github.com/wu-jei/wu-jei/blob/main/links.md))
+[Chave-mestra](https://github.com/smzto/normandy/blob/master/mente-milion%C3%A1ria.md)
