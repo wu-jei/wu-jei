@@ -6,6 +6,7 @@
 Esta é uma lista dos programas que eu costumo manter no meu computador para usos pessoais e profissionais.</h4>
 </div>
 
+![edz1](https://user-images.githubusercontent.com/101739918/159584168-20f6a301-e1be-4d2a-b51e-59cf11512341.png)
 ## Drivers
 - NVIDIA GT 210
 >- Graphics Driver
@@ -16,6 +17,7 @@ Esta é uma lista dos programas que eu costumo manter no meu computador para uso
 - Realtek Ethernet Controller
 - Realtek High Definition Audio
 
+![edz2](https://user-images.githubusercontent.com/101739918/159584177-a87e8365-ce24-4ec8-8fb3-df90dcbbae8f.png)
 ## Professional-side
 - Firefox Developer Edition
 - Visual Studio Code
@@ -32,6 +34,7 @@ Esta é uma lista dos programas que eu costumo manter no meu computador para uso
 - Ableton Live 11
 - Bootstrap Studio
 
+![edz3](https://user-images.githubusercontent.com/101739918/159584181-00049f2d-8929-4b10-8567-1ace6e089482.png)
 ## Middle-side
 - Oracle VirtualBox
 - Bonjour (Apple)
@@ -40,6 +43,7 @@ Esta é uma lista dos programas que eu costumo manter no meu computador para uso
 - Python 3.7, Python 3.9, Python 3.10
 - Composer
 
+![edz11](https://user-images.githubusercontent.com/101739918/159584185-6a0ec205-78bc-4959-a03d-6e479b08306c.png)
 ## Personal-side
 - Firefox
 - Discord
@@ -60,11 +64,5 @@ Esta é uma lista dos programas que eu costumo manter no meu computador para uso
 - Mass Effect 2
 - League of Legends
 - Need for Speed Underground 2
-
-
-![edz1](https://user-images.githubusercontent.com/101739918/159584168-20f6a301-e1be-4d2a-b51e-59cf11512341.png)
-![edz2](https://user-images.githubusercontent.com/101739918/159584177-a87e8365-ce24-4ec8-8fb3-df90dcbbae8f.png)
-![edz3](https://user-images.githubusercontent.com/101739918/159584181-00049f2d-8929-4b10-8567-1ace6e089482.png)
-![edz11](https://user-images.githubusercontent.com/101739918/159584185-6a0ec205-78bc-4959-a03d-6e479b08306c.png)
 
 [Arts by Edz Gatdula - on talenthouse.com](https://www.talenthouse.com/mamaedz)
