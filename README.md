@@ -13,6 +13,6 @@ The guy who appears when you *call the guy* who *knows a guy* that said *heard a
 
 O cara que aparece quando vcs chamam o cara que conhece um cara que diz ter escutado sobre o cara. Pois é, eu sou O Cara.
 
-@smzto < my profile
+[@smzto](https://github.com/smzto) < my profile
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12156355395&cover_image=true&theme=novatorem&bar_color=e3a420&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12156355395&redirect=true)
