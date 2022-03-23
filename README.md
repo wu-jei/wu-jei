@@ -9,4 +9,4 @@ O cara que aparece quando vcs chamam o cara que conhece um cara que diz ter escu
 - [Ideias](https://github.com/wu-jei/wu-jei/blob/main/ideias.md)
 - [Links](https://github.com/wu-jei/wu-jei/blob/main/links.md)
 - [Chave-mestra](https://github.com/smzto/normandy/blob/master/mente-milion%C3%A1ria.md)
-- [Reflexões, Notas e Café](https://github.com/wu-jei/wu-jei/blob/main/coffee.md)
+- [Reflexões, Notas e Café](https://github.com/wu-jei/wu-jei/blob/main/coffeebreak.md)
