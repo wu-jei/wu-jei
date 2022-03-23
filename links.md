@@ -8,6 +8,7 @@
 - https://github.com/steffendx/GoNorth
 
 ### APIs and Bots
+- https://github.com/kittinan/spotify-github-profile
 - https://github.com/pedroslopez/whatsapp-web.js
 
 ### React
