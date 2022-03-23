@@ -7,6 +7,9 @@
 - https://github.com/stacylondon/front-end-learning
 - https://github.com/steffendx/GoNorth
 
+### APIs and Bots
+- https://github.com/pedroslopez/whatsapp-web.js
+
 ### React
 - https://github.com/Monyancha/e-learning
 - https://github.com/PriontoAbdullah/e-learning-online-courses
@@ -19,7 +22,6 @@
 - https://github.com/EduardoRodriguesF/e-learning
 - https://github.com/stevenpersia/tinder-react-native
 - https://github.com/alexbrillant/react-native-deck-swiper
-- 
 
 ### Flutter, Flame
 - https://github.com/RafaelBarbosatec/darkness_dungeon
@@ -30,6 +32,7 @@
 
 ### Cloud Platforms
 - https://github.com/microsoft/azure-pipelines-yaml/tree/master/templates
+- 
 
 ![billgates_stevejobs_github](https://user-images.githubusercontent.com/101739918/159575813-2a18950a-ae20-4bd1-af46-2ca0bc84b646.jpg)
 — These guys were *The Guy* too. Steve Jobs (Apple) / Bill Gates (Microsoft) / Korra (Avatar)
