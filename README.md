@@ -2,8 +2,6 @@
 
 The guy who appears when you *call the guy* who *knows a guy* that said *heard about the guy in a old path ago*. Well yeah... I am *The Guy.*
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12156355395&cover_image=true&theme=novatorem&bar_color=e3a420&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12156355395&redirect=true)
-
 - [Ideias](https://github.com/wu-jei/wu-jei/blob/main/ideias.md)
 - [Links](https://github.com/wu-jei/wu-jei/blob/main/links.md)
 - [Chave-mestra](https://github.com/smzto/normandy/blob/master/mente-milion%C3%A1ria.md)
@@ -16,3 +14,5 @@ The guy who appears when you *call the guy* who *knows a guy* that said *heard a
 O cara que aparece quando vcs chamam o cara que conhece um cara que diz ter escutado sobre o cara. Pois é, eu sou O Cara.
 
 @smzto < my profile
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12156355395&cover_image=true&theme=novatorem&bar_color=e3a420&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12156355395&redirect=true)
