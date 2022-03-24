@@ -5,6 +5,7 @@ The guy who appears when you *call the guy* who *knows a guy* that said *heard a
 - [Ideias](https://github.com/wu-jei/wu-jei/blob/main/ideias.md)
 - [Links](https://github.com/wu-jei/wu-jei/blob/main/links.md)
 - [Chave-mestra](https://github.com/smzto/normandy/blob/master/mente-milion%C3%A1ria.md)
+- [Stack](https://github.com/wu-jei/wu-jei/blob/main/stack.md)
 - [Reflexões, Notas e Café](https://github.com/wu-jei/wu-jei/blob/main/coffeebreak.md)
 
 ![korra2_github](https://user-images.githubusercontent.com/42531679/159571555-e7a3010b-3210-4674-a81d-a2bdb15154c2.jpg)
