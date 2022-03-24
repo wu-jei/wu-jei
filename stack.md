@@ -22,9 +22,10 @@ Esta é uma lista dos programas que eu costumo manter no meu computador para uso
 - Firefox Developer Edition
 - Visual Studio Code
 - Android Studio
-- MongoDB Compass Community
 - Anaconda3 (Spyder & Jupyter)
 - XAMPP
+- Oracle VirtualBox
+- MongoDB Compass Community
 - DBeaver
 - Insomnia
 - Ganache
@@ -36,7 +37,7 @@ Esta é uma lista dos programas que eu costumo manter no meu computador para uso
 
 ![edz3](https://user-images.githubusercontent.com/101739918/159584181-00049f2d-8929-4b10-8567-1ace6e089482.png)
 ## Middle-side
-- Oracle VirtualBox
+- Java SE Development Kit
 - Bonjour (Apple)
 - Git Bash
 - Node.js
